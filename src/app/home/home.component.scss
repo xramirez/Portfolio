@@ -16,18 +16,17 @@ section{
     z-index: -1;
     width: 60%;
     position:absolute;
-    height: 55%;
+    height: 60em;
     background-color: rgba(30, 100, 130, 0.5);
     right: 0;
     margin-top: 5%;
     margin-right: 5%;
-    max-height: 400px;
+    max-height: 430px;
 }
 
 @media (max-width: 767px){
     .random-background{
         left: 0;
-        height: 90%;
         margin-top: 45%;
         max-height: 700px;
     }
